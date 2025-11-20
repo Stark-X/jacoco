@@ -1,0 +1,13 @@
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/AllCommands.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/Report.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/Main.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/ClassInfo.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/Version.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/Dump.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/Instrument.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/Merge.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/XmlDocumentation.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/Command.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/CommandHandler.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/CommandParser.java
+/workspace/org.jacoco.cli/src/org/jacoco/cli/internal/commands/ExecInfo.java

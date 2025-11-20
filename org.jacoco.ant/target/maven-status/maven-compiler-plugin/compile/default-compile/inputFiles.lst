@@ -1,0 +1,9 @@
+/workspace/org.jacoco.ant/src/org/jacoco/ant/DumpTask.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/AntResourcesLocator.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/AgentTask.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/AbstractCoverageTask.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/MergeTask.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/AntFilesLocator.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/ReportTask.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/CoverageTask.java
+/workspace/org.jacoco.ant/src/org/jacoco/ant/InstrumentTask.java
